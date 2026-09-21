@@ -1,0 +1,121 @@
+Record_ID,Address,Suburb,Postcode,Sale_Date,Sale_Price_AUD,Property_Type,Bedrooms,Bathrooms,Parking,Land_Area_sqm,Source
+1,84-84a Duckmallois Avenue,Blacktown,2148,2026-09-19,1405000,House,6,3,3,701.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+2,49 Pendant Avenue,Blacktown,2148,2026-09-18,980000,House,3,1,2,613.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+3,199 Flushcombe Road,Blacktown,2148,2026-09-17,900000,House,3,1,3,556.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+4,40 Stephen Street,Blacktown,2148,2026-09-17,1350000,House,5,3,3,338.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+5,6 Oregon Street,Blacktown,2148,2026-09-16,1105000,House,3,1,3,739.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+6,4 & 4A Joseph Street,Blacktown,2148,2026-09-14,1340000,House,5,2,5,713.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+7,42 Burke Street,Blacktown,2148,2026-09-11,1260000,House,5,3,6,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+8,9 Cardiff Street,Blacktown,2148,2026-09-08,1089000,House,5,2,2,556.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+9,52 Balmoral Street,Blacktown,2148,2026-09-08,1300000,House,4,1,1,696.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+10,9 Kirkman Road,Blacktown,2148,2026-09-03,1070000,House,4,1,2,638.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+11,17 Carinya Street,Blacktown,2148,2026-09-01,1600000,House,3,1,1,1182.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+12,38-38A Burrell Parade,Blacktown,2148,2026-08-28,1480000,House,5,3,4,563.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+13,39 Burke Street,Blacktown,2148,2026-08-26,1500000,House,5,3,2,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+14,19 Stephen Street,Blacktown,2148,2026-08-26,1062500,House,3,1,1,575.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+15,7/45 Lyton Street,Blacktown,2148,2026-08-25,805000,Townhouse,2,2,1,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+16,6 Fringe Glade,Blacktown,2148,2026-08-24,790000,Apartment / Unit / Flat,2,1,1,84.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+17,13 Lancaster Street,Blacktown,2148,2026-08-22,1900000,House,7,4,6,739.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+18,6 Garden Street,Blacktown,2148,2026-08-20,1235000,House,4,2,6,556.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+19,41 Dagmar Crescent,Blacktown,2148,2026-08-18,880000,House,3,1,2,569.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+20,94 Lancelot Street,Blacktown,2148,2026-08-18,950000,House,3,1,1,562.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+21,41 Anthony Street,Blacktown,2148,2026-08-17,910000,House,3,1,1,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+22,45 & 45A Dina Beth Avenue,Blacktown,2148,2026-08-14,1250000,House,5,2,4,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+23,28 Eggleton Street,Blacktown,2148,2026-08-13,1263000,House,3,1,2,866.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+24,12 Glamorgan Street,Blacktown,2148,2026-08-11,1030000,House,3,1,1,556.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+25,307/11-13 Clifton Street,Blacktown,2148,2026-08-11,575000,Apartment / Unit / Flat,2,2,1,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+26,15/25 Kildare Road,Blacktown,2148,2026-08-11,460000,Apartment / Unit / Flat,2,1,1,99.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+27,41 Burrell Parade,Blacktown,2148,2026-08-11,960000,House,3,1,2,556.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+28,57 Walters Road,Blacktown,2148,2026-08-08,1221000,House,3,1,1,835.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+29,59 Walters Road,Blacktown,2148,2026-08-08,900000,House,3,1,1,562.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+30,12 Siebel Street,Blacktown,2148,2026-08-05,1080000,House,5,2,1,560.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+31,59 Lancaster Street,Blacktown,2148,2026-07-31,900000,House,3,2,3,600.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+32,19 Leonard Street,Blacktown,2148,2026-07-30,927000,House,3,2,3,543.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+33,53-53A Pelleas Street,Blacktown,2148,2026-07-29,1700000,House,7,4,2,584.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+34,9 Nicholas Street,Blacktown,2148,2026-07-28,1200000,House,5,2,1,550.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+35,3 Bridge View Street,Blacktown,2148,2026-07-27,1200000,House,5,2,2,803.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+36,25 Virginia Street,Blacktown,2148,2026-07-26,1120000,House,4,1,3,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+37,11-11A Virginia Street,Blacktown,2148,2026-07-25,1075000,House,4,2,2,588.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+38,42 William Street,Blacktown,2148,2026-07-25,1010000,House,3,1,3,556.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+39,3 Kingsford Street,Blacktown,2148,2026-07-23,1050000,House,3,2,1,,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+40,94 Reservoir Road,Blacktown,2148,2026-07-19,1000000,House,3,2,2,593.0,https://www.domain.com.au/sold-listings/blacktown-nsw-2148/
+41,80 College Street,Balmain,2041,2026-09-17,3585000,House,5,2,1,334.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+42,14 Reynolds Avenue,Balmain,2041,2026-09-10,2025000,Townhouse,3,2,2,194.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+43,31 Stephen Street,Balmain,2041,2026-09-04,2300000,House,3,1,0,248.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+44,427B Darling Street,Balmain,2041,2026-09-04,1770000,House,3,2,0,117.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+45,302/114 Elliott Street,Balmain,2041,2026-09-04,1180000,Apartment / Unit / Flat,1,1,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+46,2/66-70 Mullens Street,Balmain,2041,2026-08-25,1000000,Apartment / Unit / Flat,1,1,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+47,204/108 Elliott Street,Balmain,2041,2026-08-20,1152500,Apartment / Unit / Flat,1,1,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+48,9/19 Glassop Street,Balmain,2041,2026-08-19,880000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+49,20/10 Gow Street,Balmain,2041,2026-08-19,1550000,Apartment / Unit / Flat,3,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+50,153 Beattie Street,Balmain,2041,2026-08-19,3050000,House,3,2,1,278.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+51,15 Roseberry Street,Balmain,2041,2026-08-07,1970000,House,2,2,0,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+52,13 Wortley Street,Balmain,2041,2026-08-07,1900000,House,2,1,0,196.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+53,40 High Street,Balmain,2041,2026-08-04,2200000,House,3,2,0,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+54,2/38 Arthur Street,Balmain,2041,2026-07-27,655000,Apartment / Unit / Flat,1,1,0,38.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+55,2 Ford Street,Balmain,2041,2026-07-13,3150000,House,4,2,1,151.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+56,15 Bradford Street,Balmain,2041,2026-07-01,2125000,House,3,1,0,219.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+57,38 Phillip Street,Balmain,2041,2026-06-26,2750000,House,3,2,0,139.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+58,8 Davidson Street,Balmain,2041,2026-06-23,4650000,House,4,3,2,202.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+59,38 Mullens Street,Balmain,2041,2026-06-23,2550000,House,3,2,0,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+60,10/1 Rosebery Place,Balmain,2041,2026-06-18,1365000,Apartment / Unit / Flat,2,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+61,12/16-18 Palmer Street,Balmain,2041,2026-06-12,1850000,Townhouse,3,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+62,1 Pashley Street,Balmain,2041,2026-06-05,2950000,House,4,2,1,278.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+63,98/2-18 Buchanan Street,Balmain,2041,2026-06-05,1500000,Apartment / Unit / Flat,3,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+64,2/240 Darling Street,Balmain,2041,2026-06-04,1142000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+65,311/22 Colgate Avenue,Balmain,2041,2026-06-03,1800000,Apartment / Unit / Flat,2,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+66,10 Terry Street,Balmain,2041,2026-05-30,3312000,House,3,2,0,177.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+67,55 Roseberry Street,Balmain,2041,2026-05-30,2760000,House,3,2,0,196.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+68,7/2 Jubilee Place,Balmain,2041,2026-05-26,3200000,House,3,2,2,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+69,9 George Street,Balmain,2041,2026-05-25,2440000,House,3,1,1,177.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+70,28/10 Gow Street,Balmain,2041,2026-05-23,2075000,Apartment / Unit / Flat,3,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+71,96 Rosser Street,Balmain,2041,2026-05-23,3150000,House,4,3,0,182.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+72,2C Waite Avenue,Balmain,2041,2026-05-22,4155000,House,4,3,1,254.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+73,6/10 Gow Street,Balmain,2041,2026-05-21,1630000,Apartment / Unit / Flat,3,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+74,7 Short Street,Balmain,2041,2026-05-20,4300000,House,4,3,0,241.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+75,8/1 Rosebery Place,Balmain,2041,2026-05-18,1322500,Apartment / Unit / Flat,2,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+76,2 Cardwell Street,Balmain,2041,2026-05-16,2320000,House,3,1,0,197.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+77,2/102 Elliott Street,Balmain,2041,2026-05-16,2960000,Townhouse,4,3,2,280.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+78,1/40 Arthur Street,Balmain,2041,2026-05-16,679000,Apartment / Unit / Flat,1,1,0,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+79,7 Church Street,Balmain,2041,2026-05-14,2755000,House,3,2,0,120.0,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+80,10 Henry Street,Balmain,2041,2026-05-11,3200000,House,3,2,1,,https://www.domain.com.au/sold-listings/balmain-nsw-2041/
+81,4/51 Bellevue Road,Bellevue Hill,2023,2026-09-15,1500000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+82,5/36B Fairfax Road,Bellevue Hill,2023,2026-09-01,552500,Studio,0,1,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+83,11/69 Birriga Road,Bellevue Hill,2023,2026-08-20,1540000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+84,19/142 Old South Head Road,Bellevue Hill,2023,2026-08-19,1240000,Apartment / Unit / Flat,2,1,1,2246.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+85,19 Mansion Road,Bellevue Hill,2023,2026-08-12,10960000,House,5,3,2,803.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+86,45 Beresford Road,Bellevue Hill,2023,2026-07-16,20000000,House,5,6,1,834.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+87,7/158 Victoria Road,Bellevue Hill,2023,2026-07-15,1500000,Apartment / Unit / Flat,2,1,1,634.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+88,15/142 Old South Head Road,Bellevue Hill,2023,2026-07-13,1110000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+89,3/56 Birriga Road,Bellevue Hill,2023,2026-07-11,1350000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+90,2/15 Birriga Road,Bellevue Hill,2023,2026-07-08,905000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+91,3/66 Birriga Road,Bellevue Hill,2023,2026-07-07,1150000,Apartment / Unit / Flat,2,1,0,71.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+92,1/169 Victoria Road,Bellevue Hill,2023,2026-07-07,1035000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+93,5/122 Old South Head Road,Bellevue Hill,2023,2026-06-23,876000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+94,1/89 Drumalbyn Road,Bellevue Hill,2023,2026-06-19,3800000,Apartment / Unit / Flat,3,3,2,359.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+95,22/60 Drumalbyn Road,Bellevue Hill,2023,2026-06-18,550000,Apartment / Unit / Flat,1,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+96,8/134 Old South Head Road,Bellevue Hill,2023,2026-06-17,1600000,Apartment / Unit / Flat,2,2,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+97,10/45 Birriga Road,Bellevue Hill,2023,2026-06-16,1350000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+98,1/206C Victoria Road,Bellevue Hill,2023,2026-06-06,1150000,Apartment / Unit / Flat,2,1,1,128.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+99,1/6 Bundarra Road,Bellevue Hill,2023,2026-06-03,2800000,Apartment / Unit / Flat,3,2,2,972.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+100,31 Warren Road,Bellevue Hill,2023,2026-05-30,18200000,House,5,6,5,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+101,5 Kulgoa Road,Bellevue Hill,2023,2026-05-21,8475000,House,3,2,2,566.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+102,1/93-95 Birriga Road,Bellevue Hill,2023,2026-05-21,2450000,Apartment / Unit / Flat,2,2,2,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+103,11/94 Birriga Road,Bellevue Hill,2023,2026-05-18,1175500,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+104,15 Arthur Street,Bellevue Hill,2023,2026-05-14,7500000,House,4,2,3,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+105,62/177 Bellevue Road,Bellevue Hill,2023,2026-05-08,1035000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+106,5/94 Birriga Road,Bellevue Hill,2023,2026-05-07,1175000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+107,5/2B Victoria Road,Bellevue Hill,2023,2026-05-05,1725000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+108,91 Birriga Road,Bellevue Hill,2023,2026-04-22,4000000,House,4,2,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+109,6/46 Birriga Road,Bellevue Hill,2023,2026-04-21,1195000,Apartment / Unit / Flat,2,1,0,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+110,6/27 Drumalbyn Road,Bellevue Hill,2023,2026-04-20,3130000,Apartment / Unit / Flat,3,2,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+111,4/88 Drumalbyn Road,Bellevue Hill,2023,2026-04-17,1012500,Apartment / Unit / Flat,2,1,0,61.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+112,17 Bradley Avenue,Bellevue Hill,2023,2026-04-14,12600000,House,5,3,2,506.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+113,112 Birriga Road,Bellevue Hill,2023,2026-03-31,3820000,House,4,2,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+114,61 Latimer Road,Bellevue Hill,2023,2026-03-31,12100000,House,4,3,5,957.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+115,1/9 Banksia Road,Bellevue Hill,2023,2026-03-27,3350000,Apartment / Unit / Flat,3,2,2,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+116,10/2B Victoria Road,Bellevue Hill,2023,2026-03-26,1700000,Apartment / Unit / Flat,2,1,1,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+117,12B March Street,Bellevue Hill,2023,2026-03-24,10250000,House,4,3,4,607.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+118,20 Lennox Street,Bellevue Hill,2023,2026-03-18,9400000,House,5,3,2,,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+119,31 Boronia Road,Bellevue Hill,2023,2026-03-13,6525000,House,3,1,2,457.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
+120,57 Bundarra Road,Bellevue Hill,2023,2026-03-11,16700000,House,6,4,2,1081.0,https://www.domain.com.au/sold-listings/bellevue-hill-nsw-2023/
